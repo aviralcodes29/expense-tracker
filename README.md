@@ -8,9 +8,7 @@ A modern and responsive Expense Tracker application built using **HTML, CSS, and
 
 Add your live project link here:
 
-```text
-[https://aviralcodes29.github.io/expense-tracker/]
-```
+https://aviralcodes29.github.io/expense-tracker/
 
 ---
 
